@@ -4,7 +4,7 @@ function validate(){
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "user_ocpl" && password == "08123717" || username == "aungkham" && password == "aungkham"){
-alert ("Warnning...<br> စာအုပ်များအား ခွင့်ပြုချက်မရပဲ screenshot ဖြင့်ဖြစ်စေ၊တခြားနည်းလမ်းဖြင့်ဖြစ်စေ ရယူပြီး Print ထုတ်ကာ ဖြန့်ဖြူး ရောင်းချပါက၊ အရေးယူခြင်းခံယူရပါမည်၊၊");
+alert (" စာအုပ်များအား ခွင့်ပြုချက်မရပဲ screenshot ဖြင့်ဖြစ်စေ၊တခြားနည်းလမ်းဖြင့်ဖြစ်စေ ရယူပြီး Print ထုတ်ကာ ဖြန့်ဖြူး ရောင်းချပါက၊ အရေးယူခြင်းခံယူရပါမည်၊၊");
 window.location = "https://onlinecivil.github.io/des/2.html"; // Redirecting to other page.
 return false;
 }
