@@ -5,7 +5,7 @@ var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "aungkham" && password == "aungkham@"){
 alert ("Login successfully");
-window.location = "success.html"; // Redirecting to other page.
+window.location = "https://onlinecivil.github.io/des/2.html"; // Redirecting to other page.
 return false;
 }
 else{
